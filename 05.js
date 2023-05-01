@@ -64,6 +64,7 @@ console.log(person);
 let r = 100;
 console.log(typeof (r));
 
+
 let s = `100`;
 
 console.log(typeof (s));
